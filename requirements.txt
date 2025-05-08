@@ -1,0 +1,4 @@
+pyfiglet
+python-nmap 
+scapy 
+requests
