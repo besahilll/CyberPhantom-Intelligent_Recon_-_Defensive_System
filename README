@@ -19,7 +19,7 @@ CyberPhantom is a modular Python-based cybersecurity framework that combines ste
 - Generates complete reconnaissance results in a single workflow
 
 ### 📸 Demo
-![Full Scan Demo](./demo/Full_Scan.jpeg)
+![Full Scan Demo](./Demo/Full_Scan.jpeg)
 
 ---
 
@@ -29,7 +29,7 @@ CyberPhantom is a modular Python-based cybersecurity framework that combines ste
 - Identifies open ports on the target system
 
 ### 📸 Demo
-![Port Scan Demo](./demo/Port_Scan.jpeg)
+![Port Scan Demo](./Demo/Port_Scan.jpeg)
 
 ---
 
@@ -41,7 +41,7 @@ CyberPhantom is a modular Python-based cybersecurity framework that combines ste
 - Supports Linux and Windows detection
 
 ### 📸 Demo
-![OS Detection Demo](./demo/OS_Detection.jpeg)
+![OS Detection Demo](./Demo/OS_Detection.jpeg)
 
 ---
 
@@ -51,7 +51,7 @@ CyberPhantom is a modular Python-based cybersecurity framework that combines ste
 - Useful for service enumeration and reconnaissance
 
 ### 📸 Demo
-![Banner Grabbing Demo](./demo/Banner_Grabbing.jpeg)
+![Banner Grabbing Demo](./Demo/Banner_Grabbing.jpeg)
 
 ---
 
@@ -64,7 +64,7 @@ CyberPhantom is a modular Python-based cybersecurity framework that combines ste
 - Helps identify publicly known vulnerabilities related to detected services
 
 ### 📸 Demo
-![Exploit Lookup Demo](./demo/Exploit_Lookup.jpeg)
+![Exploit Lookup Demo](./Demo/Exploit_Lookup.jpeg)
 
 ---
 
@@ -77,4 +77,4 @@ Detects:
 - Suspicious TCP traffic
 
 ### 📸 Demo
-![NIDS Demo](./demo/NIDS.jpeg)
+![NIDS Demo](./Demo/NIDS.jpeg)
