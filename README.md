@@ -64,7 +64,7 @@ CyberPhantom is a modular Python-based cybersecurity framework that combines ste
 - Helps identify publicly known vulnerabilities related to detected services
 
 ### 📸 Demo
-![Exploit Lookup Demo](./Demo/Exploit_Lookup.jpeg)
+![Exploit Lookup Demo](./Demo/NVD_CVE.jpeg)
 
 ---
 
@@ -77,4 +77,5 @@ Detects:
 - Suspicious TCP traffic
 
 ### 📸 Demo
-![NIDS Demo](./Demo/NIDS.jpeg)
+![NIDS Demo](./Demo/NIDS_Attack.jpeg)
+![NIDS Demo2](./Demo/NIDS_Victim.jpeg)
